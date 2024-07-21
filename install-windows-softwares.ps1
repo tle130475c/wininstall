@@ -17,3 +17,4 @@ winget install --id KeePassXCTeam.KeePassXC
 winget install --id JetBrains.Toolbox
 winget install --id UniKey.UniKey
 winget install --id CoreyButler.NVMforWindows
+winget install --id Tonec.InternetDownloadManager
