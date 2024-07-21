@@ -1,5 +1,4 @@
-﻿winget install --id Microsoft.VisualStudio.2022.Community
-winget install --id Git.Git
+﻿winget install --id Git.Git
 winget install --id GitHub.cli
 winget install --id Microsoft.VisualStudioCode
 winget install --id SumatraPDF.SumatraPDF
@@ -14,4 +13,3 @@ winget install --id Mozilla.Firefox.DeveloperEdition
 winget install --id KeePassXCTeam.KeePassXC
 winget install --id JetBrains.Toolbox
 winget install --id CoreyButler.NVMforWindows
-winget install --id Tonec.InternetDownloadManager
