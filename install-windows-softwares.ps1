@@ -14,3 +14,5 @@ winget install --id KeePassXCTeam.KeePassXC
 winget install --id JetBrains.Toolbox
 winget install --id CoreyButler.NVMforWindows
 winget install --id Docker.DockerDesktop
+winget install --id Helm.Helm
+winget install --id Kubernetes.minikube
