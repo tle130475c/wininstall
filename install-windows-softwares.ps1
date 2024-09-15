@@ -4,7 +4,6 @@ winget install --id Microsoft.VisualStudioCode
 winget install --id SumatraPDF.SumatraPDF
 winget install --id 7zip.7zip
 winget install --id AutoHotkey.AutoHotkey
-winget install --id Transmission.Transmission
 winget install --id EclipseAdoptium.Temurin.21.JDK
 winget install --id calibre.calibre
 winget install --id VideoLAN.VLC
