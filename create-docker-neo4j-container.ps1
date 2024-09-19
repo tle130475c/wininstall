@@ -1,5 +1,4 @@
-docker run `
-    -d `
+docker create `
     -v $HOME/neo4j/data:/data `
     -v $HOME/neo4j/dump:/dump `
     -v $HOME/neo4j/plugins:/plugins `
