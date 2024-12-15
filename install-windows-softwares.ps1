@@ -7,7 +7,6 @@ winget install --id AutoHotkey.AutoHotkey
 winget install --id EclipseAdoptium.Temurin.21.JDK
 winget install --id calibre.calibre
 winget install --id VideoLAN.VLC
-winget install --id Mozilla.Firefox.DeveloperEdition
 winget install --id KeePassXCTeam.KeePassXC
 winget install --id JetBrains.Toolbox
 winget install --id CoreyButler.NVMforWindows
