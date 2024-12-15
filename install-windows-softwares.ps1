@@ -1,6 +1,7 @@
 ﻿winget install --id Git.Git
 winget install --id GitHub.cli
 winget install --id Microsoft.VisualStudioCode
+winget install --id Microsoft.VisualStudioCode.Insiders
 winget install --id SumatraPDF.SumatraPDF
 winget install --id 7zip.7zip
 winget install --id AutoHotkey.AutoHotkey
@@ -13,3 +14,4 @@ winget install --id CoreyButler.NVMforWindows
 winget install --id Docker.DockerDesktop
 winget install --id Helm.Helm
 winget install --id Kubernetes.minikube
+winget install --id direnv.direnv
